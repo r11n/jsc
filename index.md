@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ![JSimage](contents01.jpg)
 # Javascript ES6 in-depth with React
 In this course we will be building a weather forecasting react application using the **openweather** API.
@@ -6,7 +9,7 @@ term `aTrivia` is used to give a vague idea about the assignments that will be g
 
 **Note:** Course structure is built considering most of the learners are beginners. The first two chapters might take more time than any others.
 
-## Introduction to JS [notes](01_introduction_to_js/README.md)
+## Introduction to JS [notes](01_introduction_to_js/README)
 A basic introduction to javascript and its implications
 * Hello JS
     - history, syntax

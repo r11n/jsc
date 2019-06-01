@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Functions
 ## defining
 ## reusing

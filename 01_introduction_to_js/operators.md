@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Operators
 ## General Operators
 ## Compound Assignment

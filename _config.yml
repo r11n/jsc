@@ -1,9 +1,10 @@
 # Site settings
 title: Javascript ES6 in-depth with React
+description: Learn JS from scratch
 email: nekkanti.raghavendra2@gmail.com
 repository: r11n.gitlab.io
 url: "/" # the base hostname & protocol for your site
 github_username:  r11n
 gitlab_username:  r11n
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 

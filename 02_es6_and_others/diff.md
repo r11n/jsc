@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # The Differences
 ## `let`, `const`
 ## `let` vs `var`

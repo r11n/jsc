@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # The Other Buddies
 ## Regular Expressions
 ## Debugging

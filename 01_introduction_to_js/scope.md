@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Scope of *var*
 ## What is scope
 ## Global Scope

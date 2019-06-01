@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Hello JS
 ## History, Syntax
 ## Internet & How browser works
