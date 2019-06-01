@@ -1,4 +1,4 @@
-![JS image](contents01.jpg)
+![JSimage](contents01.jpg)
 # Javascript ES6 in-depth with React
 In this course we will be building a weather forecasting react application using the **openweather** API.
 
