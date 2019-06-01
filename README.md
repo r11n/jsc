@@ -1,5 +1,5 @@
-# Javascript ES6 in-depth with React
 ![JS image](contents01.jpg)
+# Javascript ES6 in-depth with React
 In this course we will be building a weather forecasting react application using the **openweather** API.
 
 term `aTrivia` is used to give a vague idea about the assignments that will be given in the chapter.
