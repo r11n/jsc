@@ -9,9 +9,7 @@ term `aTrivia` is used to give a vague idea about the assignments that will be g
 
 **Note:** Course structure is built considering most of the learners are beginners. The first two chapters might take more time than any others.
 
-## Introduction to JS 
-[*notes*](01_introduction_to_js/README)
-
+## Introduction to JS [notes](01_introduction_to_js/README.md)
 A basic introduction to javascript and its implications
 * Hello JS
     - history, syntax
@@ -53,7 +51,6 @@ A basic introduction to javascript and its implications
 **aTrivia:** Downloading the city dataset(around 200K cities) from openweather and perform actions on it such as creating a json object...
 
 ## ES6 and other buddies
-[*notes*](02_es6_and_others/README)
 This chapter gives an in-depth idea about the new features in the ES6 standard.
 * what is ES6?
 * The differences
@@ -77,7 +74,6 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 **aTrivia:** Wrap a general XMLHttpRequest into a promise in order to reuse that in making API calls and fetching the data. generating our own prototype function over a object and some other assignments that helps in understanding the ES6 features along with regex etc.,
 
 ## Node.js & its friends
-[*notes*](03_node_n_friends/README)
 * what is `node.js`?
 * what is package manager?
 * `npm, yarn ...`
@@ -85,7 +81,6 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 * integrating libs with `npm`
 
 ## Why React?
-[*notes*](04_why_react/README)
 * Virtual DOM
     - advantages of VDOM
     - differences without using VDOM
@@ -96,7 +91,6 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 **aTrivia:** Building a sample react component, build the same component without using react...
 
 ## React Notations
-[*notes*](05_react_notations/README)
 * `jsx`
 * `State`
 * `Props`
@@ -106,7 +100,6 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 **aTrivia:** Building components that will make the learner understand each of the notations
 
 ## Styling Compontents
-[*notes*](06_styling_components/README)
 * A brief intro to CSS
 * Inline Styling
 * CSS-in-JS
@@ -115,7 +108,6 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 **aTrivia:** Building components in different styling variations. building individual static weather type components(sunny, haze etc.,)
 
 ## Building the React Application
-[*notes*](07_builing_the_app/README)
 * Syntax Standards
 * Re-usable library functions
 * How to use React context

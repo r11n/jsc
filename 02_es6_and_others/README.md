@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: '/'
 ---
 # ES6 and other buddies
 The Following are the contents of this chapter:

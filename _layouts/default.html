@@ -10,7 +10,8 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+    <title>{{ page.title |default: site.title}}</title>
+    <meta name="description" content="{{ page.description |default: site.description }}">
   </head>
   <body>
 
@@ -20,9 +21,11 @@
       </header>
 
       <div id="banner">
-        <span id="logo"></span>
-
-        <a href="https://github.com/r11n" class="button fork"><strong>Author</strong></a>
+        <!-- <span id="logo"></span> -->
+        {% if page.parent %}
+        <a href="{{page.parent}}" class="button">home</a>
+        {% endif %}
+        <a href="https://github.com/r11n" class="button"><strong>Author</strong></a>
       </div><!-- end banner -->
 
     <div class="wrapper">

@@ -1,5 +1,6 @@
 ---
 layout: default
+parent: '/'
 ---
 # Introduction To JS
 In this Chapter we are going to learn basics of Javascript.
