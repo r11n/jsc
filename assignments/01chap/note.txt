@@ -1,0 +1,6 @@
+1. sort a numerical array in a descending order without using reverse()
+awnser: 1.js
+2. Finding the maximum value of array without sorting it
+answer: 2.js
+3. Write your own Maximum and Minimum value finding functions for a array
+answer: 3.js

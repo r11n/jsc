@@ -31,3 +31,6 @@ $(function() {
 
   $('img').on('load', sectionHeight);
 });
+$(document).ready(function(event) {
+  $('.language-sequence').sequenceDiagram({theme: 'simple'})
+})
