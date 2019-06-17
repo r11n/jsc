@@ -1,6 +1,16 @@
 1. sort a numerical array in a descending order without using reverse()
-awnser: 1.js
+answer: 1.js
 2. Finding the maximum value of array without sorting it
 answer: 2.js
 3. Write your own Maximum and Minimum value finding functions for a array
 answer: 3.js
+4. Learn about all the tags in HTML tags and make boiler plate using all the tags
+answer: 
+5. Learn about the styling the HTML elements using style tag and create a Document having a body with image as background and a heading and some text content with different colors
+answer: 
+6. Learn About the HTML forms and build a form with all types of fields that HTML supports by default
+answer:
+7. Write a CSS file and use it in a HTML document to apply styles based on tagname, class name and id of elements
+answer:
+8. Write a function to return the sum of the array elements
+answer:

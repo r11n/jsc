@@ -155,3 +155,19 @@ l.sort();
 
 ##### `reverse()`
 `reverse` is used to reverse the an array from its last index
+```javascript
+k = [1, 2, 3]
+k.reverse()
+[3, 2, 1]
+```
+
+##### `reduce()`
+`reduce()` method executes a reducer function (that you provide) on each element of the array, resulting in a single output value.
+```javascript
+var a = [1, 2, 3, 4];
+var reducer = function(previousReturn, currentValue) => previousReturn + currentValue;
+console.log(a.reduce(reducer, 5));
+// 5 + 1 + 2 + 3 + 4 = 15;
+console.log(a.reduce(reducer));
+// 1 + 2 + 3 + 4 = 10;
+```

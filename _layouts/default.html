@@ -27,9 +27,7 @@
 
       <div id="banner">
         <!-- <span id="logo"></span> -->
-        {% if page.parent %}
-        <a href="{{page.parent}}" class="button">home</a>
-        {% endif %}
+        <a href="{{page.parent |default: '/'}}" class="button">{{page.parent_name |default: 'home'}}</a>
         <a href="https://github.com/r11n" class="button"><strong>Author</strong></a>
       </div><!-- end banner -->
 

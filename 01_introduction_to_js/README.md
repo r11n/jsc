@@ -2,6 +2,7 @@
 layout: default
 parent: '/'
 ---
+![IntroImage](/contents06.png)
 # Introduction To JS
 In this Chapter we are going to learn basics of Javascript.
 The following are the contents of this chapter.
