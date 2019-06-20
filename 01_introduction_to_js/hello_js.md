@@ -15,7 +15,7 @@ Javascript is a high-level, interpreted programming language that conforms to th
 ## Internet & How browser works
 The Internet(can be called interconnected network) is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies.
 ### WWW
-The World Wide Web (WWW), commonly known as the Web, is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs, such as https://www.example.com/), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW may be accessed by users by a software application called a web browser.
+The World Wide Web (WWW), commonly known as the Web, is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs, such as https://www.techsparks.guru/), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW may be accessed by users by a software application called a web browser.
 ### How a browser works
 Before reading the contents of how browser works, please watch the following video, it helps you to understand the contents much better
 <iframe height="360" src="https://www.youtube.com/embed/uE3UPEK26U0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%"></iframe>
@@ -134,7 +134,7 @@ The HTML element is everything from the start tag to the end tag:
 
 |tag  | attribute(s) | example                                  |
  -----|-----------|------------------------------------------
-|`<a>`|*href*     |`<a href="https://example.com">link</a> ` |
+|`<a>`|*href*     |`<a href="https://www.techsparks.guru">link</a> ` |
 |`<img>`|*src*,*width*, *height*, *alt*   |`<img src="lion_king.png" alt="lion image" width="500" height="600"/>`|
 |`<div>`, `<p>`...|*style*|`<p style="color:red">I am a paragraph</p>`|
 

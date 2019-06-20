@@ -45,14 +45,14 @@ The following code snippet will help in understanding the above explanation.
 ## What is a URL?
 **URL** is the abbreviation of **U**niform **R**esource **L**ocator and is defined as the global address of documents and other resources on the World Wide Web.
 
-For example, to visit a website you will go and type in the URL of the website say [github.com](https://github.com). URL is the abbreviation of Uniform Resource Locator and is defined as the global address of documents and other resources on the World Wide Web.
+For example, to visit a website you will go and type in the URL of the website say [techsparks.guru](https://www.techsparks.guru). URL is the abbreviation of Uniform Resource Locator and is defined as the global address of documents and other resources on the World Wide Web.
 ### Parts of URL
 The first part of the URL is called a *protocol* identifier and it indicates what protocol to use, and the second part is called a *resource name* and it specifies the IP address or the domain name where the resource is located. The protocol identifier and the resource name are separated by a colon and two forward slashes.
 ```sequence
 Note over Protocol, Resource Name: URL
 Note over Protocol: http or https
 Note over Resource Name: example.com(domain)\nor\n192.168.1.180(ip)
-Note over Protocol, Resource Name: https://example.com
+Note over Protocol, Resource Name: https://techsparks.guru
 ```
 ## Event Loop
 JavaScript has a concurrency model based on an "event loop". This model is quite different from models in other languages like C and Java.
