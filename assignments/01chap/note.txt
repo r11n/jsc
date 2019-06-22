@@ -13,4 +13,11 @@ answer:
 7. Write a CSS file and use it in a HTML document to apply styles based on tagname, class name and id of elements
 answer:
 8. Write a function to return the sum of the array elements
-answer:
+answer: 4.js
+9. Write a function to check whether the given parameter is a valid JSON or not using the try catch
+answer: 5.js
+10. Write a prototype function over string object to return the converted json if the string is a valid json or return null
+answer: 6.js
+11. Write a function to return a random number between 60 to 100.
+answer: 7.js
+12. Learn about js XMLHttpRequest and make a call to Open weather API.
