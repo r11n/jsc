@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![IntroImage](/contents07.jpeg)
 # Building the React Application
 The Following are the contents of this chapter:
 * [Syntax Standards](standard)

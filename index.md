@@ -54,6 +54,7 @@ A basic introduction to javascript and its implications
 
 ## ES6 and other buddies
 [*notes*](02_es6_and_others/README)
+
 This chapter gives an in-depth idea about the new features in the ES6 standard.
 * what is ES6?
 * The differences
@@ -78,6 +79,7 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 
 ## Node.js & its friends
 [*notes*](03_node_n_friends/README)
+
 * what is `node.js`?
 * what is package manager?
 * `npm, yarn ...`
@@ -97,6 +99,7 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 
 ## React Notations
 [*notes*](05_react_notations/README)
+
 * `jsx`
 * `State`
 * `Props`
@@ -107,6 +110,7 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 
 ## Styling Compontents
 [*notes*](06_styling_components/README)
+
 * A brief intro to CSS
 * Inline Styling
 * CSS-in-JS
@@ -116,6 +120,7 @@ This chapter gives an in-depth idea about the new features in the ES6 standard.
 
 ## Building the React Application
 [*notes*](07_builing_the_app/README)
+
 * Syntax Standards
 * Re-usable library functions
 * How to use React context

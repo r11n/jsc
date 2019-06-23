@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![IntroImage](/contents05.jpg)
 # Styling Components
 The Following are the contents of this chapter:
 * [A brief intro to CSS](a_intro)

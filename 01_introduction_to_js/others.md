@@ -56,12 +56,14 @@ To create a REST API, you need to follow six architectural constraints:
 * **Code on demand [optional]** – When it’s necessary, the response can contain executable code (e.g., JavaScript within an HTML response) that the client can execute.
 
 #### pros
+
 * seamless
 * easy
 * easy data wrapping
 * data driven
 
 #### cons
+
 * less secure(depends on the system)
 
 ### SOAP
@@ -73,10 +75,14 @@ SOAP follows a formal and standardized approach that specifies how to encode XML
 * Header (optional) – It contains the optional attributes of the message. It allows you to extend a SOAP message in a modular and decentralized way.
 * Body (required) – It contains the XML data that the server transmits to the receiver.
 * Fault (optional) – It carries information about errors occurring during processing the message.
+
 #### pros
+
 * more secure
 * legacy support
+
 #### cons
+
 * only XML support
 * resource consuming and complex
 

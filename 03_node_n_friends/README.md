@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![IntroImage](/contents04.jpg)
 # Node.js and its friends
 The Following are the contents of this chapter:
 * [Whats is **node.js**?](node)
