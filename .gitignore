@@ -2,3 +2,4 @@ _site
 .sass-cache
 .jekyll-metadata
 public/
+03_node_n_friends/sample_node/node_modules
